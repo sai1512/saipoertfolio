@@ -128,10 +128,10 @@ export default function Resume(props) {
       {/* Automation Engineer */}
       <div className="resume-heading">
         <div className="resume-main-heading">
-          <span className="resume-heading-des">Automation Engineer</span>
+          <span className="resume-heading-des">Test Automation Engineer</span>
           <div className="heading-date">Aug 2022 – Jul 2023</div>
         </div>
-        <div className="resume-sub-heading-des">USG IT Solutions Pvt. Ltd, Hyderabad, India</div>
+        <div className="resume-sub-heading-des">Cloud Angles Pvt. Ltd, Hyderabad, India</div>
         <ul className="experience-description">
           <li>Built a Python/Selenium POM framework covering 120+ regression flows (35% → 85% coverage).</li>
           <li>Integrated with Jenkins nightly CI; reduced manual testing by 70% and enabled 99.8% uptime releases.</li>
